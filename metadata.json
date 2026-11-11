@@ -1,0 +1,6 @@
+{
+  "name": "ClipHook Studio - AI Video Clipping & Publishing Platform",
+  "description": "Complete professional AI clipping platform with Gemini content analysis, hook generator, FFmpeg 9:16 editor, and YouTube publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
